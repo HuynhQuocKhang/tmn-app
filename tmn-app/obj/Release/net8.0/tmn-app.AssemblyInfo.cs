@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tmn-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7b9eb9ed0e871822333d575629aeb581154c602")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17e43f0a4141c15b0788a3193fa8b70d0afb3cd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("tmn-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tmn-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

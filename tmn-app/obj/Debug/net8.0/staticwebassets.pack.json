@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\images\\birthdaycake_1.png",
+      "PackagePath": "staticwebassets\\images\\birthdaycake_1.png"
+    },
+    {
+      "Id": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\images\\birthdaycake_2.png",
+      "PackagePath": "staticwebassets\\images\\birthdaycake_2.png"
+    },
+    {
       "Id": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\js\\HappyBirthday.js",
       "PackagePath": "staticwebassets\\js\\HappyBirthday.js"
     },
