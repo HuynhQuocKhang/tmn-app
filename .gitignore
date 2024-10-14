@@ -1,0 +1,9 @@
+bin
+obj
+.vs
+.github
+
+tmn-app/bin
+tmn-app/obj
+tmn-app/.vs
+tmn-app/.github
