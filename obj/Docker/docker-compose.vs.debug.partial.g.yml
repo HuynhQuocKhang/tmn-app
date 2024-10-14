@@ -1,7 +1,6 @@
 services:
   tmn-app:
-    image: tmnapp:dev
-    container_name: "tmn-app"
+    image: huynhkhang/tmnapp:dev
     build:
       args:
         LAUNCHING_FROM_VS: true

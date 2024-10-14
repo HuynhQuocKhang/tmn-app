@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "S3XPvLGkXVc=",
+  "dgSpecHash": "qaUNo2GxAKg=",
   "success": true,
   "projectFilePath": "C:\\Work\\tmn-app\\tmn-app\\tmn-app.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\sondh\\.nuget\\packages\\dotenv.net\\3.2.1\\dotenv.net.3.2.1.nupkg.sha512",
     "C:\\Users\\sondh\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
   ],
   "logs": []

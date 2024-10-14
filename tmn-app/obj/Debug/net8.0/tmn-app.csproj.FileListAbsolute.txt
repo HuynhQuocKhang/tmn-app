@@ -59,3 +59,6 @@ C:\Work\tmn-app\tmn-app\obj\Debug\net8.0\refint\tmn-app.dll
 C:\Work\tmn-app\tmn-app\obj\Debug\net8.0\tmn-app.pdb
 C:\Work\tmn-app\tmn-app\obj\Debug\net8.0\tmn-app.genruntimeconfig.cache
 C:\Work\tmn-app\tmn-app\obj\Debug\net8.0\ref\tmn-app.dll
+C:\Work\tmn-app\tmn-app\bin\Debug\net8.0\dotenv.net.dll
+C:\Work\tmn-app\tmn-app\obj\Debug\net8.0\tmn-app.csproj.AssemblyReference.cache
+C:\Work\tmn-app\tmn-app\obj\Debug\net8.0\tmn-app.csproj.Up2Date

@@ -1,0 +1,54 @@
+name: dockercompose15435416057230606876
+services:
+  app:
+    command:
+      - sh
+      - -c
+      - echo  | docker login -u  --password-stdin && docker pull huynhkhang/tmnapp:latest
+    environment:
+      DOCKER_PASSWORD: ""
+      DOCKER_USERNAME: ""
+    image: huynhkhang/tmnapp:latest
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8080"
+        protocol: tcp
+  tmn-app:
+    build:
+      context: C:\Work\tmn-app\tmn-app
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "5000"
+      ASPNETCORE_HTTPS_PORTS: "5001"
+    image: tmnapp
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5000
+        published: "5000"
+        protocol: tcp
+      - mode: ingress
+        target: 5001
+        published: "5001"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\sondh\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\sondh\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  default:
+    name: dockercompose15435416057230606876_default

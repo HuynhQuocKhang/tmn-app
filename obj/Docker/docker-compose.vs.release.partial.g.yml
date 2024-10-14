@@ -1,6 +1,5 @@
 services:
   tmn-app:
-    container_name: "tmn-app"
     build:
       args:
         LAUNCHING_FROM_VS: true

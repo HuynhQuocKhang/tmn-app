@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0W/lUzka6zcv6sJt5DTTNb1rlc9sh5AD6+Nz0N4wkvU=",
+  "Hash": "cyd6Bwv/wG0HhXCfLbo9Wsr004ZpsJH5kHujyV+8/DY=",
   "Source": "tmn-app",
   "BasePath": "_content/tmn-app",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Work\\tmn-app\\tmn-app\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\tmn-app.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\css\\Balloon - Copy.css",
+      "SourceId": "tmn-app",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\",
+      "BasePath": "_content/tmn-app",
+      "RelativePath": "css/Balloon - Copy.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Balloon - Copy.css"
     },
     {
       "Identity": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\css\\Balloon.css",

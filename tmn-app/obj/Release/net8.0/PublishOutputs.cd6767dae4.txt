@@ -1,0 +1,8 @@
+C:\Work\tmn-app\tmn-app\obj\Release\net8.0\PubTmp\Out\tmn-app.exe
+C:\Work\tmn-app\tmn-app\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Work\tmn-app\tmn-app\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Work\tmn-app\tmn-app\obj\Release\net8.0\PubTmp\Out\tmn-app.dll
+C:\Work\tmn-app\tmn-app\obj\Release\net8.0\PubTmp\Out\tmn-app.deps.json
+C:\Work\tmn-app\tmn-app\obj\Release\net8.0\PubTmp\Out\tmn-app.runtimeconfig.json
+C:\Work\tmn-app\tmn-app\obj\Release\net8.0\PubTmp\Out\tmn-app.pdb
+C:\Work\tmn-app\tmn-app\obj\Release\net8.0\PubTmp\Out\dotenv.net.dll
