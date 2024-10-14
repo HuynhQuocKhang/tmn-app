@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5kZX2BQzGRar1W4Kffh4VVsrkNcWxxuliEDW/lEK1LM=",
+  "Hash": "0W/lUzka6zcv6sJt5DTTNb1rlc9sh5AD6+Nz0N4wkvU=",
   "Source": "tmn-app",
   "BasePath": "_content/tmn-app",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Work\\tmn-app\\tmn-app\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\tmn-app.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\css\\Balloon.css",
+      "SourceId": "tmn-app",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\",
+      "BasePath": "_content/tmn-app",
+      "RelativePath": "css/Balloon.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Balloon.css"
     },
     {
       "Identity": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\css\\HappyBirthday.css",
@@ -150,12 +169,12 @@
       "OriginalItemSpec": "wwwroot\\images\\birthdaycake_1.png"
     },
     {
-      "Identity": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\images\\birthdaycake_2.png",
+      "Identity": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\images\\bouquet.png",
       "SourceId": "tmn-app",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\",
       "BasePath": "_content/tmn-app",
-      "RelativePath": "images/birthdaycake_2.png",
+      "RelativePath": "images/bouquet.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,7 +185,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\birthdaycake_2.png"
+      "OriginalItemSpec": "wwwroot\\images\\bouquet.png"
+    },
+    {
+      "Identity": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\js\\Balloon.js",
+      "SourceId": "tmn-app",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\",
+      "BasePath": "_content/tmn-app",
+      "RelativePath": "js/Balloon.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Balloon.js"
     },
     {
       "Identity": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\js\\HappyBirthday.js",

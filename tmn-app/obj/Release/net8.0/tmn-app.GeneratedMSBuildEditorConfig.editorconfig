@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Work\tmn-app\tmn-app
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Work/tmn-app/tmn-app/Views/Home/Balloon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCYWxsb29uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Work/tmn-app/tmn-app/Views/Home/HappyBirthday.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIYXBweUJpcnRoZGF5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

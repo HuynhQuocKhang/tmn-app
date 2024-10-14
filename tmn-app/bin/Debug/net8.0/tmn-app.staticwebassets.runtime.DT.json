@@ -7,6 +7,14 @@
     "Children": {
       "css": {
         "Children": {
+          "Balloon.css": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "css/Balloon.css"
+            },
+            "Patterns": null
+          },
           "HappyBirthday.css": {
             "Children": null,
             "Asset": {
@@ -53,11 +61,11 @@
             },
             "Patterns": null
           },
-          "birthdaycake_2.png": {
+          "bouquet.png": {
             "Children": null,
             "Asset": {
               "ContentRootIndex": 0,
-              "SubPath": "images/birthdaycake_2.png"
+              "SubPath": "images/bouquet.png"
             },
             "Patterns": null
           }
@@ -67,6 +75,14 @@
       },
       "js": {
         "Children": {
+          "Balloon.js": {
+            "Children": null,
+            "Asset": {
+              "ContentRootIndex": 0,
+              "SubPath": "js/Balloon.js"
+            },
+            "Patterns": null
+          },
           "HappyBirthday.js": {
             "Children": null,
             "Asset": {

@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "C:\\Work\\tmn-app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|c:\\work\\tmn-app\\tmn-app\\views\\home\\happybirthday.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|solutionrelative:tmn-app\\views\\home\\happybirthday.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|c:\\work\\tmn-app\\tmn-app\\wwwroot\\js\\balloon.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|solutionrelative:tmn-app\\wwwroot\\js\\balloon.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|c:\\work\\tmn-app\\tmn-app\\wwwroot\\css\\happybirthday.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|solutionrelative:tmn-app\\wwwroot\\css\\happybirthday.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|c:\\work\\tmn-app\\tmn-app\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|solutionrelative:tmn-app\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|c:\\work\\tmn-app\\tmn-app\\views\\home\\happybirthday.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|solutionrelative:tmn-app\\views\\home\\happybirthday.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|c:\\work\\tmn-app\\tmn-app\\wwwroot\\js\\happybirthday.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|solutionrelative:tmn-app\\wwwroot\\js\\happybirthday.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|c:\\work\\tmn-app\\tmn-app\\views\\home\\balloon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|solutionrelative:tmn-app\\views\\home\\balloon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|c:\\work\\tmn-app\\tmn-app\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|solutionrelative:tmn-app\\wwwroot\\css\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|c:\\work\\tmn-app\\tmn-app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|solutionrelative:tmn-app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|c:\\work\\tmn-app\\tmn-app\\wwwroot\\css\\balloon.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|solutionrelative:tmn-app\\wwwroot\\css\\balloon.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,13 +90,78 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.css",
+              "DocumentMoniker": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\css\\Index.css",
+              "RelativeDocumentMoniker": "tmn-app\\wwwroot\\css\\Index.css",
+              "ToolTip": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\css\\Index.css",
+              "RelativeToolTip": "tmn-app\\wwwroot\\css\\Index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-11T04:53:27.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Balloon.js",
+              "DocumentMoniker": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\js\\Balloon.js",
+              "RelativeDocumentMoniker": "tmn-app\\wwwroot\\js\\Balloon.js",
+              "ToolTip": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\js\\Balloon.js",
+              "RelativeToolTip": "tmn-app\\wwwroot\\js\\Balloon.js",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-11T03:09:28.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Balloon.css",
+              "DocumentMoniker": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\css\\Balloon.css",
+              "RelativeDocumentMoniker": "tmn-app\\wwwroot\\css\\Balloon.css",
+              "ToolTip": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\css\\Balloon.css",
+              "RelativeToolTip": "tmn-app\\wwwroot\\css\\Balloon.css",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-11T03:09:43.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Balloon.cshtml",
+              "DocumentMoniker": "C:\\Work\\tmn-app\\tmn-app\\Views\\Home\\Balloon.cshtml",
+              "RelativeDocumentMoniker": "tmn-app\\Views\\Home\\Balloon.cshtml",
+              "ToolTip": "C:\\Work\\tmn-app\\tmn-app\\Views\\Home\\Balloon.cshtml",
+              "RelativeToolTip": "tmn-app\\Views\\Home\\Balloon.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T03:08:27.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HappyBirthday.js",
+              "DocumentMoniker": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\js\\HappyBirthday.js",
+              "RelativeDocumentMoniker": "tmn-app\\wwwroot\\js\\HappyBirthday.js",
+              "ToolTip": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\js\\HappyBirthday.js",
+              "RelativeToolTip": "tmn-app\\wwwroot\\js\\HappyBirthday.js",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAuwGkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-11T02:47:01.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "HappyBirthday.css",
               "DocumentMoniker": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\css\\HappyBirthday.css",
               "RelativeDocumentMoniker": "tmn-app\\wwwroot\\css\\HappyBirthday.css",
               "ToolTip": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\css\\HappyBirthday.css",
               "RelativeToolTip": "tmn-app\\wwwroot\\css\\HappyBirthday.css",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-10-10T09:51:52.171Z",
               "EditorCaption": ""
@@ -88,32 +169,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Work\\tmn-app\\tmn-app\\Dockerfile",
-              "RelativeDocumentMoniker": "tmn-app\\Dockerfile",
-              "ToolTip": "C:\\Work\\tmn-app\\tmn-app\\Dockerfile",
-              "RelativeToolTip": "tmn-app\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-10T06:34:39.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "HappyBirthday.cshtml",
               "DocumentMoniker": "C:\\Work\\tmn-app\\tmn-app\\Views\\Home\\HappyBirthday.cshtml",
               "RelativeDocumentMoniker": "tmn-app\\Views\\Home\\HappyBirthday.cshtml",
               "ToolTip": "C:\\Work\\tmn-app\\tmn-app\\Views\\Home\\HappyBirthday.cshtml",
               "RelativeToolTip": "tmn-app\\Views\\Home\\HappyBirthday.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-07T03:19:30.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Work\\tmn-app\\tmn-app\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "tmn-app\\Views\\Home\\Index.cshtml",
@@ -121,7 +189,8 @@
               "RelativeToolTip": "tmn-app\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-07T03:19:31.181Z"
+              "WhenOpened": "2024-10-07T03:19:31.181Z",
+              "EditorCaption": ""
             }
           ]
         },

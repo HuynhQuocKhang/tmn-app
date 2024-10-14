@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\tmn-app.bundle.scp.css"
     },
     {
+      "Id": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\css\\Balloon.css",
+      "PackagePath": "staticwebassets\\css\\Balloon.css"
+    },
+    {
       "Id": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\css\\HappyBirthday.css",
       "PackagePath": "staticwebassets\\css\\HappyBirthday.css"
     },
@@ -19,6 +23,18 @@
     {
       "Id": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\images\\birthdaycake_1.png",
+      "PackagePath": "staticwebassets\\images\\birthdaycake_1.png"
+    },
+    {
+      "Id": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\images\\bouquet.png",
+      "PackagePath": "staticwebassets\\images\\bouquet.png"
+    },
+    {
+      "Id": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\js\\Balloon.js",
+      "PackagePath": "staticwebassets\\js\\Balloon.js"
     },
     {
       "Id": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\js\\HappyBirthday.js",
