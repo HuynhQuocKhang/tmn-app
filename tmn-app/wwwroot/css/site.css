@@ -20,3 +20,16 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+
+@font-face {
+    font-family: 'GrandHotel';
+    src: url('/fonts/NVN GrandHotel VH.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Use the custom font in body or specific elements */
+body {
+    font-family: 'GrandHotel', sans-serif;
+}

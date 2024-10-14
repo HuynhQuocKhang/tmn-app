@@ -10,11 +10,11 @@ function getRandomStyles() {
     var b = random(255);
     var mt = random(150);
     var ml = random(120);
-    var dur = random(5)+10;
+    var dur = random(2) + 5;
     return `
-  background-color: rgba(${r},${g},${b},0.8);
+  background-color: rgba(${r},${g},${b},0.9);
   color: rgba(${r},${g},${b},0.8); 
-  box-shadow: inset -7px -3px 10px rgba(${r - 10},${g - 10},${b - 10},0.8);
+  box-shadow: inset -7px -3px 10px rgba(${r - 30},${g - 30},${b - 30},0.8);
   margin: ${mt}px 0 0 ${ml}px;
   animation: float ${dur}s ease-in forwards 
   `;

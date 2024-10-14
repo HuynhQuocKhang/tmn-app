@@ -6,17 +6,30 @@
 <link href="~/css/HappyBirthday.css" rel="stylesheet" type="text/css" />
 
 <div class="container">
-    <h3>zxlkcvkzjx;clvkzjx;cvlzkxcjv;alskvnưovihzs;flvkj</h3>
-    <div class="panel" id="panel">
+    <div class="panel-hpbd" id="panel-hpbd">
         <div class="panel-content front" id="front">
             <img draggable="false" src="~/images/birthdaycake_1.png" alt="cake1" id="cake1" class="cake1" />
         </div>
         <div class="panel-content back" id="back">
-            <img draggable="false"  src="~/images/bouquet.png" alt="cake2" id="cake2" class="cake2" />
+            <div class="back-content">
+                <div class="row">
+                    <span class="col-12 title">Tặng emmmmm</span>
+                    <img draggable="false" src="~/images/bouquet.png" alt="cake2" id="cake2" class="cake2 col-12" />
+                </div>
+            </div>
         </div>
     </div>
     <div class="content">
-        <h3>Happy birthday</h3>
+        <div class="row">
+            <div class="col-12">
+                <div class="inside-content">
+                    <div class="border-white"></div>
+                </div>
+            </div>
+            <div class="col-12">
+                <span class="title float-end">Trương Mẩn Nghi</span>
+            </div>
+        </div>
         @Html.Partial("Balloon")
     </div>
 </div>
