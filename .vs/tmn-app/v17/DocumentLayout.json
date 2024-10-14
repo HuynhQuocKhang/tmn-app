@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Work\\tmn-app\\",
+  "WorkspaceRootPath": "E:\\Project\\tmn-app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|c:\\work\\tmn-app\\tmn-app\\views\\home\\happybirthday.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|e:\\project\\tmn-app\\tmn-app\\views\\home\\happybirthday.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|solutionrelative:tmn-app\\views\\home\\happybirthday.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|c:\\work\\tmn-app\\tmn-app\\wwwroot\\css\\happybirthday.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|e:\\project\\tmn-app\\tmn-app\\wwwroot\\css\\happybirthday.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|solutionrelative:tmn-app\\wwwroot\\css\\happybirthday.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|c:\\work\\tmn-app\\tmn-app\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{263D27EA-0232-422D-B3D5-D0EA7C7CF880}|docker-compose.dcproj|e:\\project\\tmn-app\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{263D27EA-0232-422D-B3D5-D0EA7C7CF880}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|e:\\project\\tmn-app\\tmn-app\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|solutionrelative:tmn-app\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|c:\\work\\tmn-app\\tmn-app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|e:\\project\\tmn-app\\tmn-app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4A103E6D-49BA-40B1-95AD-CFA8DBC0E70E}|tmn-app\\tmn-app.csproj|solutionrelative:tmn-app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -26,136 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "E:\\Project\\tmn-app\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "E:\\Project\\tmn-app\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-10-10T17:23:14.936Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "HappyBirthday.css",
-              "DocumentMoniker": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\css\\HappyBirthday.css",
+              "DocumentMoniker": "E:\\Project\\tmn-app\\tmn-app\\wwwroot\\css\\HappyBirthday.css",
               "RelativeDocumentMoniker": "tmn-app\\wwwroot\\css\\HappyBirthday.css",
-              "ToolTip": "C:\\Work\\tmn-app\\tmn-app\\wwwroot\\css\\HappyBirthday.css",
+              "ToolTip": "E:\\Project\\tmn-app\\tmn-app\\wwwroot\\css\\HappyBirthday.css",
               "RelativeToolTip": "tmn-app\\wwwroot\\css\\HappyBirthday.css",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-10T09:51:52.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T09:51:52.171Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Work\\tmn-app\\tmn-app\\Dockerfile",
+              "DocumentMoniker": "E:\\Project\\tmn-app\\tmn-app\\Dockerfile",
               "RelativeDocumentMoniker": "tmn-app\\Dockerfile",
-              "ToolTip": "C:\\Work\\tmn-app\\tmn-app\\Dockerfile",
+              "ToolTip": "E:\\Project\\tmn-app\\tmn-app\\Dockerfile",
               "RelativeToolTip": "tmn-app\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-10T06:34:39.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T06:34:39.484Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HappyBirthday.cshtml",
-              "DocumentMoniker": "C:\\Work\\tmn-app\\tmn-app\\Views\\Home\\HappyBirthday.cshtml",
+              "DocumentMoniker": "E:\\Project\\tmn-app\\tmn-app\\Views\\Home\\HappyBirthday.cshtml",
               "RelativeDocumentMoniker": "tmn-app\\Views\\Home\\HappyBirthday.cshtml",
-              "ToolTip": "C:\\Work\\tmn-app\\tmn-app\\Views\\Home\\HappyBirthday.cshtml",
+              "ToolTip": "E:\\Project\\tmn-app\\tmn-app\\Views\\Home\\HappyBirthday.cshtml",
               "RelativeToolTip": "tmn-app\\Views\\Home\\HappyBirthday.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-07T03:19:30.298Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Work\\tmn-app\\tmn-app\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "E:\\Project\\tmn-app\\tmn-app\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "tmn-app\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Work\\tmn-app\\tmn-app\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Project\\tmn-app\\tmn-app\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "tmn-app\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-07T03:19:31.181Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

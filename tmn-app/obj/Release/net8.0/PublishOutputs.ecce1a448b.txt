@@ -1,0 +1,7 @@
+E:\Project\tmn-app\tmn-app\obj\Docker\publish\tmn-app.exe
+E:\Project\tmn-app\tmn-app\obj\Docker\publish\appsettings.Development.json
+E:\Project\tmn-app\tmn-app\obj\Docker\publish\appsettings.json
+E:\Project\tmn-app\tmn-app\obj\Docker\publish\tmn-app.dll
+E:\Project\tmn-app\tmn-app\obj\Docker\publish\tmn-app.deps.json
+E:\Project\tmn-app\tmn-app\obj\Docker\publish\tmn-app.runtimeconfig.json
+E:\Project\tmn-app\tmn-app\obj\Docker\publish\tmn-app.pdb

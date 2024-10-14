@@ -65,3 +65,30 @@
     filter: drop-shadow(5px 5px 5px 5px rgba(0, 0, 0, 0.5));
     box-shadow: -5px 0px 5px 0px rgba(0,0,0,0.2)
 }
+
+.panel-content {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+    .panel-content img {
+        position: absolute;
+        margin: auto;
+        user-select:none;
+    }
+
+.cake1 {
+    width: 100% !important;
+}
+
+    .panel-content .cake2 {
+        width: 75%;
+        backface-visibility: visible;
+        transform-style: preserve-3d;
+        transform: perspective(550px) rotateY(0deg);
+        transition: all .8s ease-in-out;
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+    }

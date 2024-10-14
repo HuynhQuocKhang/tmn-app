@@ -84,7 +84,7 @@
 }
 
     .panel-content .cake2 {
-        width: 50%;
+        width: 75%;
         backface-visibility: visible;
         transform-style: preserve-3d;
         transform: perspective(550px) rotateY(0deg);
