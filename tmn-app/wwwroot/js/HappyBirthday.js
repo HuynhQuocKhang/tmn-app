@@ -1,5 +1,5 @@
 ﻿const panel = document.querySelector('.panel');
-let isOpened = false;
+
 // Variables to track the state
 let isDragging = false;
 let startX = 0;
@@ -50,6 +50,7 @@ document.addEventListener('mousemove', (event) => {
     panel.querySelector('.back').style.transform = `perspective(550px) rotateY(${distanceMoved}deg)`;
 
     // Apply the additional style while dragging
+    panel.querySelector('.back').style.backgroundColor = 'red';
     panel.querySelector('.back').style.boxShadow = '7px 0px 5px 0px rgba(0,0,0,0.3), inset 2px 0px 15px 0px rgba(0,0,0,0.1)';
 });
 
@@ -77,35 +78,30 @@ document.addEventListener('touchmove', (event) => {
     panel.querySelector('.back').style.transform = `perspective(550px) rotateY(${distanceMoved}deg)`;
 
     // Apply the additional style while dragging
+    panel.querySelector('.back').style.backgroundColor = 'red';
     panel.querySelector('.back').style.boxShadow = '7px 0px 5px 0px rgba(0,0,0,0.3), inset 2px 0px 15px 0px rgba(0,0,0,0.1)';
 });
 
 // Function to handle mouseup (stop dragging)
 document.addEventListener('mouseup', () => {
-    endOfTouch();
-});
-
-// Add touchend event for mobile devices
-document.addEventListener('touchend', () => {
-    endOfTouch();
-});
-
-function endOfTouch() {
     if (isDragging) {
         isDragging = false;
         panel.style.cursor = 'grab';  // Reset cursor
         if (distanceMoved == 0) {
-            //isOpened = false;
             panel.querySelector('.back').style.backgroundColor = '';
             panel.querySelector('.back').style.boxShadow = '';
         }
-        else {
-            createBalloons(6);
+    }
+});
 
-            setTimeout(() => {
-                //removeBalloons();
-            },10000)
-            //isOpened = true;
+// Add touchend event for mobile devices
+document.addEventListener('touchend', () => {
+    if (isDragging) {
+        isDragging = false;
+        panel.style.cursor = 'grab';  // Reset cursor
+        if (distanceMoved == 0) {
+            panel.querySelector('.back').style.backgroundColor = '';
+            panel.querySelector('.back').style.boxShadow = '';
         }
     }
-}
+});
