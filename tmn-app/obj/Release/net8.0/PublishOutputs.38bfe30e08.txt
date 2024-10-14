@@ -1,8 +1,0 @@
-C:\Work\tmn-app\tmn-app\obj\Docker\publish\tmn-app.exe
-C:\Work\tmn-app\tmn-app\obj\Docker\publish\appsettings.Development.json
-C:\Work\tmn-app\tmn-app\obj\Docker\publish\appsettings.json
-C:\Work\tmn-app\tmn-app\obj\Docker\publish\tmn-app.dll
-C:\Work\tmn-app\tmn-app\obj\Docker\publish\tmn-app.deps.json
-C:\Work\tmn-app\tmn-app\obj\Docker\publish\tmn-app.runtimeconfig.json
-C:\Work\tmn-app\tmn-app\obj\Docker\publish\tmn-app.pdb
-C:\Work\tmn-app\tmn-app\obj\Docker\publish\dotenv.net.dll
