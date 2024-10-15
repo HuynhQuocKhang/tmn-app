@@ -1,9 +1,9 @@
-.vs
 bin
 obj
+.vs
 .github
 
-tmn-app/.vs
 tmn-app/bin
 tmn-app/obj
-tmn-app/github
+tmn-app/.vs
+tmn-app/.github
