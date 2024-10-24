@@ -478,3 +478,8 @@ var ParticlePool = (function () {
 
 })(document.getElementById('pinkboard'));
 
+function changeToHPBD() {
+    var url = document.getElementById("hdHPBD").value;
+    console.log(url)
+         window.location.href = url;
+}

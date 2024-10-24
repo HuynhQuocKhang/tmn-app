@@ -3,8 +3,8 @@
     ViewData["Title"] = "Home";
 }
 <link href="~/css/Index.css" rel="stylesheet" type="text/css" />
-
-<div class="heart-container">
+<input value="@Url.Action("HappyBirthday", "Home")" id="hdHPBD" hidden/>
+<div class="heart-container" onclick="changeToHPBD()">
     <canvas id="pinkboard"></canvas>
 </div>
 
